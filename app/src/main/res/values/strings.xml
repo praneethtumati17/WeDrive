@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">GoFree</string>
+    <string name="app_name">WeDrive</string>
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
 
     <!-- Change the following strings as required -->
     <string name="back4app_app_id">15jDw5xnzBAZkTvCC6nJVrSpFk0g2guHg1Slvngc</string>
     <string name="back4app_client_key">K3F9vEPh7MqDfLz220WKzHjd79emeAIwwcxVd49U</string>
+    <string name="title_activity_passenger_">Passenger</string>
 </resources>
